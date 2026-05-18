@@ -1,6 +1,6 @@
 {
   "name": "express-rest-api-and-mcp-server-framework",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Express REST API and MCP Server Framework is a comprehensive development framework for building RESTful APIs and MCP servers with Express.js. It provides a complete template for creating production-ready APIs using Node.js, Express, Mongoose (MongoDB), and Sequelize (SQL databases).",
   "main": "src/index.ts",
   "scripts": {
